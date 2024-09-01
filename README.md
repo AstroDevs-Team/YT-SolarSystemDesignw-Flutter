@@ -8,7 +8,7 @@
 </a>
 
 <h2>
-<a href="https://youtu.be/KmymjKUp3lw">
+<a href="https://www.youtube.com/watch?v=k8IB9Kq3cUU">
  Watch Full Episod
 </a>
 </h2>

@@ -12,9 +12,10 @@
  Watch Full Episod
 </a>
 </h2>
+<br/>
 
 <h1>
-<a href="https://dribbble.com/shots/16423239-Explore-Solar-System-Planets-App" >  🔗 Dribbble Design Inspiration  </a>
+<a href="https://dribbble.com/shots/16423239-Explore-Solar-System-Planets-App" >  🔗 Dribbble Design Inspiration  </a> <br/><br/>
 <a href="https://dribbble.com/talhacay" >  🔗 Designer's Profile  </a>
 </h1>
 
